@@ -1,0 +1,25 @@
+.boxHeight{    
+    height: auto;
+    background-color: transparent;
+}
+.personDescription{
+    font-size: 50px;
+    font-weight: 600;
+}
+.boxImage{
+    height: auto;    
+    overflow: hidden;
+    border-radius: 15px;
+    background-color: white;
+}
+.image{
+    height: 500px;    
+    
+}
+.boxPaddingLeft{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.boxPaddingBottom{
+    padding-bottom: 40px;
+}
